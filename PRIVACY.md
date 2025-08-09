@@ -1,0 +1,1 @@
+CollegePath does not collect, store, or share any personal information beyond what is entered in the extension (college names, rankings, application types, status). All data is stored locally in Chrome’s sync storage and remains tied to your Google account. The extension does not share, sell, or use this data for any purpose beyond supporting the extension’s functionality.
